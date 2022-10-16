@@ -2,15 +2,5 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-
-## Notas
-Pueden hacer lo que quieran...
-
-### Actualizado desde github
-Este es un mensaje actualizado completamente desde github
-pequeño cambio!!
-
-### Hola Mundo 
-
-Actualizacion para la configuracion local del pull 
-para fast-forward only pull.ff only
+## Estos cambios son nuevos
+esta es una actualizacion local y se subira a github
