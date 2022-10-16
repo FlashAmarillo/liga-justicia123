@@ -9,3 +9,8 @@ Pueden hacer lo que quieran...
 ### Actualizado desde github
 Este es un mensaje actualizado completamente desde github
 pequeño cambio!!
+
+## Hola Mundo 
+
+Actualizacion para la configuracion local del pull 
+para fast-forward only pull.ff only
