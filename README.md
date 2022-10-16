@@ -10,7 +10,7 @@ Pueden hacer lo que quieran...
 Este es un mensaje actualizado completamente desde github
 pequeño cambio!!
 
-## Hola Mundo 
+### Hola Mundo 
 
 Actualizacion para la configuracion local del pull 
 para fast-forward only pull.ff only
