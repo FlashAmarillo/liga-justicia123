@@ -11,3 +11,18 @@ esta es una actualizacion local y se subira a github!!!!
 
 ## Estos son cambios nuevos desde el repositorio local !!!!
 realizar un push para actualizar los cambios en el repo remoto
+
+# h1
+## h1
+### h1
+#### h1
+
+* A
+* B
+* C
+
+![Github Logo](https://octodex.github.com/images/daftpunktocat-thomas.gif)
+
+*Esto* es un texto en _cursiva_
+
+__Este__ es un texto en __Negritas__
